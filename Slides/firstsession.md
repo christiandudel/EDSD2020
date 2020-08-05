@@ -7,7 +7,7 @@ output: beamer_presentation
 
 # What will be covered in this course?
   
-- Software: R and RStudio
+- Software: R (and RStudio)
 - Mostly basic things in these programs
 - Course will not cover many things
 - Course will not be deep
@@ -127,14 +127,27 @@ use two or more!
 - Tons of R-related things: Books, journals, forums, conferences, ...
 - Many methods are already implemented in R
 
+# Why use RStudio?
+
+- R is the programming language
+- RStudio is a tool to use R more efficiently
+- Features:
+-- Syntax highlighting, code folding
+-- Project management (e.g., GitHub)
+-- Markdown support
+-- ...
+
 # Disclaimer
+
 - R is not the only statistical software and it is fine if you prefer something else
+- RStudio is not the only IDE/editor for R (ESS, RKWward, Tinn-R, ...)
 - R can be used in many different ways
 - Example: base R vs tidyverse vs data.table vs specialized packages
 - I do things in certain ways, and this course will follow that
 - This does not mean that the solutions from this course are the only or the best way to do things
 
 # What do you need to get started?
+
 - R: https://cran.r-project.org/
 - R-Studio: https://www.rstudio.com/
   
