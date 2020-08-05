@@ -1,4 +1,4 @@
-# EDSD 2020: Computer programming
+# EDSD 2020: Computer programming (E140)
 
 ## Overview
 
@@ -18,9 +18,11 @@ In this course, we will use two programs:
 
 First install R, then install RStudio.
 
+## Helpful resources
+
+Wickham, Grolemund: R for Data Science. https://r4ds.had.co.nz/
+Allerhand: A Tiny Handbook of R. http://link.springer.com/book/10.1007%2F978-3-642-17980-8 (available for free through MPIDR account)
+
 ## Contact
 
 Feel free to get in touch if you have any questions of find any errors: dudel@demogr.mpg.de
-
-## Other online resources
-
