@@ -90,16 +90,19 @@
   fig1 <- fig1+facet_wrap(~smoke)
   fig1
 
-### Saving: File extension sets type of graphic #####################
+### Saving ##########################################################
   
+  # File extension sets type of graphic (here: pdf)
   ggsave(file="C:/Users/Christian/Desktop/test.pdf",
          plot=fig1)
 
 
-
 ### Base R plot #####################################################
 
-  # Scatter plot
+  # Basic scatter plot
+  plot(x=birthwt$age,y=birthwt$bwt)
+  
+  # Scatter plot with some options
   plot(x=birthwt$age,y=birthwt$bwt,
        main="Scatter plot",
        xlab="Age",
