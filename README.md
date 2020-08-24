@@ -6,8 +6,8 @@ This repository contains materials for the computer programming course of the ED
 
 * "R Code:" R code for each session.
 * "Slides:" Slides of the first session.
-* "Assignments:" Assignments which need to be solved 
-* "Assignments - Solutions:" Solutions to the assignments, uploaded after the deadline of each assignments
+* "Assignments:" Assignment which need to be solved 
+* "Assignments - Solutions:" Solutions to the assignment, uploaded after the deadline of each assignments
 
 ## Software
 
@@ -18,10 +18,36 @@ In this course, we will use two programs:
 
 First install R, then install RStudio.
 
+## Course schedule
+
+All sessions will be held via Zoom (https://zoom.us/), invite via email.
+
+* September 23 (Wed), 16:30-18:30 (CEST)
+* September 25 (Fri), 16:30-18:30 (CEST)
+* September 30 (Wed), 16:30-18:30 (CEST)
+* October 2 (Fri), 16:30-18:30 (CEST)
+* October 7 (Wed), 16:30-18:30 (CEST)
+* October 9 (Fri),  6:30-18:30 (CEST)
+* October 14 (Wed), 16:30-18:30 (CEST)
+
 ## Helpful resources
 
-Wickham, Grolemund: R for Data Science. https://r4ds.had.co.nz/
-Allerhand: A Tiny Handbook of R. http://link.springer.com/book/10.1007%2F978-3-642-17980-8 (available for free through MPIDR account)
+Books:
+
+* Wickham, Grolemund: R for Data Science. https://r4ds.had.co.nz/
+* Healy: Data Visualization. https://socviz.co/ 
+* Hernan, Robins: Causal Inference. https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/
+* Allerhand: A Tiny Handbook of R. http://link.springer.com/book/10.1007%2F978-3-642-17980-8 (available for free through MPIDR account)
+
+Websites:
+
+* https://stackexchange.com/
+* https://www.r-bloggers.com/ 
+
+Journals:
+
+* Journal of Statistical Software https://www.jstatsoft.org/index 
+* R Journal https://journal.r-project.org/ 
 
 ## Contact
 

@@ -1,5 +1,8 @@
 ### First session: Basics ###########################################
 
+### Lines beginning with an '#' are comments, which are not run 
+### To run a line of code, move courser there and hit Ctrl + Return
+
 ### R as calculator #################################################
 
   1+1 
@@ -55,6 +58,7 @@
 
 ### Arguments of functions ##########################################
 
+  args(log)
   log(2,base=2)  
   log(x=2,base=2)
   # Generally: foo(arg1,arg2,arg3,...)

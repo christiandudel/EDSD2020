@@ -90,7 +90,8 @@
   # Source:
   # https://www.aeaweb.org/articles?id=10.1257/0002828042002561 
   # Also discussed in 
-  # Imai, K. (2017): Quantitative Social Science - An Introduction. Princeton University Press
+  # Imai, K. (2017): Quantitative Social Science.
+  # Data comes from Imai's GitHub
 
   # Load data
   experiment <- read.csv("https://raw.githubusercontent.com/kosukeimai/qss/master/CAUSALITY/resume.csv")

@@ -1,7 +1,7 @@
 ---
 title: "Computer programming E140"
 author: Christian Dudel
-date: September XX, 2020
+date: September 23, 2020
 output: beamer_presentation
 ---
 
@@ -31,7 +31,7 @@ At the end of this course...
 - Write a function that takes any integer as input and returns TRUE if the integer is a prime number, otherwise it returns FALSE
 - Write a function that takes any integer as input and returns its amicable number if it exists, otherwise it returns FALSE
 - Check one of the many tasks on rosettacode.org solved with R
-- Replicate one of the many replicable articles available at Demographic Research
+- Reproduce or replicate one of the many reproducible/replicable articles available at Demographic Research
 - Work on your own analysis
   
 # Contact
@@ -41,22 +41,31 @@ At the end of this course...
 - Twitter: @c_dudel
 - Website: https://sites.google.com/view/cdudel
 
-# Topics I work on/I am interested in
+# Things I work on/I am interested in
 
-- Labor markets and aging
-- Pensions and inequality
-- Fertility, in particular fertility of men
-- Longitudinal data analysis, in particular multistate modeling
-- Identification and causal inference
-- Survey methodology (variance estimation, missing data)
-  
+- *Topics*: Labor markets, pensions, fertility, health
+- *Concepts*: Stratification, inequality, life courses, aging
+- *Methods*: Longitudinal data analysis, causal inference, identification, survey methodology
+
 # Course schedule
 
-1. session: Date and time not set yet
-2. session: Date and time not set yet
-3. session: Date and time not set yet
-4. session: Date and time not set yet
-5. session: Date and time not set yet 
+September 23 (Wed), 16:30-18:30 (CEST)
+
+September 25 (Fri), 16:30-18:30 (CEST)
+
+September 30 (Wed), 16:30-18:30 (CEST)
+
+October 2 (Fri), 16:30-18:30 (CEST)
+
+October 7 (Wed), 16:30-18:30 (CEST)
+
+October 9 (Fri),  6:30-18:30 (CEST)
+
+October 14 (Wed), 16:30-18:30 (CEST)
+
+# Course location
+
+My Zoom (invite per email)
   
 # Materials
 
@@ -65,13 +74,13 @@ Materials will be available from GitHub, also mirrored on OSF:
 - https://github.com/christiandudel/EDSD2020
 - https://osf.io/c6jru/ 
 
-Materials will mostly consist of R code and some slides.
+Materials will consist of R code and some slides.
   
 # Assignment: Overview
 
 - One assignment
-- Assignment handed out on XX.YY.
-- Deadline: ZZ.ZZ.
+- Assignment handed out on October 7
+- Deadline: October 13, midnight
 - Assignment will consist of several tasks: "Do this and that with R", "Solve this problem with R", etc.
 
 # Assignment: Your solutions
@@ -82,9 +91,9 @@ Materials will mostly consist of R code and some slides.
 
 # Assignment: Deadline
 
-- Deadline assignment: XX.ZZ.YY, 12am
+- Deadline assignment: October 13, 12am/midnight/24:00
 - Send your solutions to me (dudel@demogr.mpg.de)
-- You will get a confirmation (might take a few days, sorry)
+- You will get a confirmation (might take a bit, sorry)
 - I might get back to you if I have problems with your file(s)
 - It is your responsibility that your files are working!
 
@@ -122,8 +131,8 @@ use two or more!
 
 - Free, open source
 - Can easily be extended
-- Around 15,000 packages available
-- De facto standard in statistics, commonly used in both science and industry
+- More than 16,000 packages available
+- Commonly used in both science and industry
 - Tons of R-related things: Books, journals, forums, conferences, ...
 - Many methods are already implemented in R
 
