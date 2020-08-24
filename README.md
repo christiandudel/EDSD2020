@@ -6,8 +6,8 @@ This repository contains materials for the computer programming course of the ED
 
 * "R Code:" R code for each session.
 * "Slides:" Slides of the first session.
-* "Assignments:" Assignment which need to be solved 
-* "Assignments - Solutions:" Solutions to the assignment, uploaded after the deadline of each assignments
+* "Assignment:" Assignment which needs to be solved 
+* "Assignment - Solutions:" Solutions to the assignment, uploaded after the deadline
 
 ## Software
 
