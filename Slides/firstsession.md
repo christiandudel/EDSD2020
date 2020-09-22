@@ -74,18 +74,24 @@ Materials will be available from GitHub, also mirrored on OSF:
 - https://github.com/christiandudel/EDSD2020
 - https://osf.io/c6jru/ 
 
-Materials will consist of R code and some slides.
+# Slack and (voluntary) exercises
+
+- For each session, there will be some voluntary exercises to solve
+- If you have any questions regarding the exercises (or the course in general) you can post them on Slack
+- You can also post your solutions to Slack
+- Access to Slack: See email
+- These voluntary exercises have to be distinguished from the (mandatory!) assignment
   
 # Assignment: Overview
 
-- One assignment
+- One mandatory assignment
 - Assignment handed out on October 7
 - Deadline: October 13, midnight
-- Assignment will consist of several tasks: "Do this and that with R", "Solve this problem with R", etc.
+- Assignment will consist of several exercises: "Do this and that with R", "Solve this problem with R", etc.
 
 # Assignment: Your solutions
 
-- You submit R code as solutions
+- You submit R code as solutions (via email)
 - R code should be commented, explaining what is happening
 - Code should work "out-of-the-box" without errors
 

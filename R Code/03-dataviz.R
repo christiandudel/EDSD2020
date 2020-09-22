@@ -89,6 +89,7 @@
   fig1 <- fig1+labs(x="Age",y="Birth weight")
   fig1 <- fig1+facet_wrap(~smoke)
   fig1
+  
 
 ### Saving ##########################################################
   
