@@ -2,6 +2,10 @@
 
 Below you find some (voluntary) exercises which you can solve. Questions regarding the exercises can be posted on Slack in #exercises.
 
+## Solutions
+
+Solutions for the exercises can be found in this folder. For instance, the file 'solutions_session_1.R' is an R script containing the solutions for the exercises for the first session.
+
 ## 1st session
 
 1. Go to Slack and post some music you like to listen to while coding in #offtopic (e.g., a video on YouTube). If you prefer not to listen to music while coding you can post other music you like.
