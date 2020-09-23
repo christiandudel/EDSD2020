@@ -85,24 +85,3 @@
   prop.table(tab,2)
 
 
-### Real example ####################################################
-
-  # Source:
-  # https://www.aeaweb.org/articles?id=10.1257/0002828042002561 
-  # Also discussed in 
-  # Imai, K. (2017): Quantitative Social Science.
-  # Data comes from Imai's GitHub
-
-  # Load data
-  experiment <- read.csv("https://raw.githubusercontent.com/kosukeimai/qss/master/CAUSALITY/resume.csv")
-  head(experiment)
-  
-  ### EXERCISE:
-  # Create a cross-table of 'race' and 'call' with
-  # relative frequencies such that the resulting
-  # table allows to compare whether Black or white
-  # names got more callbacks.
-
-  ### SOLUTION:
-  tab <- table(experiment$race,experiment$call,dnn=c("Race","Call"))
-  prop.table(tab,1)
