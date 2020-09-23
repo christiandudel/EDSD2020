@@ -14,6 +14,7 @@ output: beamer_presentation
 
 # Zoom
 
+- Please use your preferred name consistently
 - Please mute your microphone when not speaking
 - Feel free to turn off video 
 - Feel free to interrupt me any time (unmute first)...
