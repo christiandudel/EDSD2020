@@ -83,7 +83,7 @@ October 2 (Fri), 16:30-18:30 (CEST)
 
 October 7 (Wed), 16:30-18:30 (CEST)
 
-October 9 (Fri),  6:30-18:30 (CEST)
+October 9 (Fri),  16:30-18:30 (CEST)
 
 October 14 (Wed), 16:30-18:30 (CEST)
 

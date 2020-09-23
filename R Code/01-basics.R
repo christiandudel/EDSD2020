@@ -114,8 +114,3 @@
   x # Should still be 5
   x <- 1 # x gets replaced without warning
   x
-
-
-
-
-
