@@ -34,13 +34,6 @@
   2^1/3
   2^(1/3)
 
-  ### EXERCISE: Calculate...
-  # 1234+1234
-  # 151/7
-  # 13^4-12^3+5
-  # 20/0
-
-
 ### Mathematical functions ##########################################
 
   sqrt(4) # sqrt(a) => a=x^2  
@@ -122,11 +115,7 @@
   x <- 1 # x gets replaced without warning
   x
 
-  ### EXERCISE:
-  # Create and save a script file doing the following
-  # Create object x  = sqrt(2)
-  # Create second object y = x^2
-  # Check whether y equals 2 by typing 'y==2'
+
 
 
 
