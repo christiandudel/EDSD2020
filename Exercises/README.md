@@ -25,7 +25,7 @@ In a much cited experiment Bertrand and Mullainathan (2004) showed that African 
 
 A part of the data has been published with a textbook on quantitative social science by Kosuke Imai. The data is available on Imai's GitHub: https://raw.githubusercontent.com/kosukeimai/qss/master/CAUSALITY/resume.csv
   
-Load the data set and create a cross-tablulation of the two variables 'race' and 'call'. 'call' uses dummy coding and is equal to 1 if a resume received a callback. Use relative frequencies such that the table shows whether whites or Blacks are more likely to receive a callback. This should reproduce the main finding of Bertrand and Mullainathan (2004): "White names receive 50 percent more callbacks for interviews."
+Load the data set and create a cross-tablulation of the two variables 'race' and 'call'. To load the data you can use the function 'read.csv()'. The variable 'call' uses dummy coding and is equal to 1 if a resume received a callback. Use relative frequencies such that the table shows whether whites or Blacks are more likely to receive a callback. This should reproduce the main finding of Bertrand and Mullainathan (2004): "White names receive 50 percent more callbacks for interviews."
 
 ## 3rd session
 

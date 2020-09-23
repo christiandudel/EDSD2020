@@ -5,6 +5,29 @@ date: September 23, 2020
 output: beamer_presentation
 ---
 
+# COVID-19
+
+- Course will be completely online
+- First online course I teach, different from previous courses
+- Challenging situation for everyone, let me know if too much
+- Feel free to skip classes (everyone needs to do assignment, though)
+
+# Zoom
+
+- Please mute your microphone when not speaking
+- Feel free to turn off video 
+- Feel free to interrupt me any time (unmute first)...
+- ...for instance, if you cannot hear me well...
+- ...but be aware that there might be some delay
+- I might miss things you write in the Zoom chat
+
+# Materials
+
+Materials will be available from GitHub, also mirrored on OSF:
+
+- https://github.com/christiandudel/EDSD2020
+- https://osf.io/c6jru/ 
+
 # What will be covered in this course?
   
 - Software: R (and RStudio)
@@ -18,8 +41,7 @@ At the end of this course...
 
 - ...you understand basic concepts of R
 - ...you can do a basic analysis in R
-- ...you know where you can learn more about R
-    
+
 # Prerequisites
     
 - Basic demographic knowledge (e.g., you know what a 'rate' is)
@@ -36,6 +58,7 @@ At the end of this course...
   
 # Contact
 
+- Slack (see email)
 - Email: dudel@demogr.mpg.de
 - Office: 359 (3rd floor, east wing)
 - Twitter: @c_dudel
@@ -63,30 +86,18 @@ October 9 (Fri),  6:30-18:30 (CEST)
 
 October 14 (Wed), 16:30-18:30 (CEST)
 
-# Course location
-
-My Zoom (invite per email)
-  
-# Materials
-
-Materials will be available from GitHub, also mirrored on OSF:
-
-- https://github.com/christiandudel/EDSD2020
-- https://osf.io/c6jru/ 
-
 # Slack and (voluntary) exercises
 
 - For each session, there will be some voluntary exercises to solve
-- If you have any questions regarding the exercises (or the course in general) you can post them on Slack
-- You can also post your solutions to Slack
-- Access to Slack: See email
+- If you have any questions regarding the exercises you can post them on Slack
+- Solutions will be available online (GitHub/OSF)
 - These voluntary exercises have to be distinguished from the (mandatory!) assignment
   
 # Assignment: Overview
 
 - One mandatory assignment
 - Assignment handed out on October 7
-- Deadline: October 13, midnight
+- Deadline: October 13
 - Assignment will consist of several exercises: "Do this and that with R", "Solve this problem with R", etc.
 
 # Assignment: Your solutions
@@ -97,7 +108,7 @@ Materials will be available from GitHub, also mirrored on OSF:
 
 # Assignment: Deadline
 
-- Deadline assignment: October 13, 12am/midnight/24:00
+- Deadline assignment: October 13, 12am/midnight/24:00 (CEST/Berlin time)
 - Send your solutions to me (dudel@demogr.mpg.de)
 - You will get a confirmation (might take a bit, sorry)
 - I might get back to you if I have problems with your file(s)
@@ -113,17 +124,17 @@ Materials will be available from GitHub, also mirrored on OSF:
  
 # Assignment: Grading
 
-- You can either “pass” or “fail”
-- Your code should...
---...work “out-of-the-box”
---...be well-documented: Comments!
---...should be (somewhat) efficient. If one step can do the work then don’t
+* You can either “pass” or “fail”
+* Your code should...
+*...work “out-of-the-box”
+*...be well-documented: Comments!
+*...should be (somewhat) efficient. If one step can do the work then don’t
 use two or more!
 
 # Assignment: Summary
 
 - One assignment consisting of coding tasks
-- You submit code as solutions
+- You submit code as solutions, via email
 - You can work in groups
 - Pass/fail
  
@@ -139,18 +150,18 @@ use two or more!
 - Can easily be extended
 - More than 16,000 packages available
 - Commonly used in both science and industry
-- Tons of R-related things: Books, journals, forums, conferences, ...
+- Tons of R-related materials: Books, journals, conferences, forums, tutorials...
 - Many methods are already implemented in R
 
 # Why use RStudio?
 
-- R is the programming language
-- RStudio is a tool to use R more efficiently
-- Features:
--- Syntax highlighting, code folding
--- Project management (e.g., GitHub)
--- Markdown support
--- ...
+* R is the programming language
+* RStudio is a tool to use R more efficiently
+* Features:
+    + Syntax highlighting, code folding
+    + Project management (e.g., GitHub)
+    + Markdown support
+    + ...
 
 # Disclaimer
 

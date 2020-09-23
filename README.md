@@ -2,12 +2,11 @@
 
 ## Overview
 
-This repository contains materials for the computer programming course of the EDSD cohort 2020. It will consist of four folders:
+This repository contains materials for the computer programming course of the EDSD cohort 2020. Currently, there are three folders:
 
-* "R Code:" R code for each session.
-* "Slides:" Slides of the first session.
-* "Assignment:" Assignment which needs to be solved 
-* "Assignment - Solutions:" Solutions to the assignment, uploaded after the deadline
+* "R Code": R code for each session.
+* "Slides": Slides of the first session.
+* "Exercises": Voluntary exercises.  
 
 ## Software
 
@@ -51,4 +50,4 @@ Journals:
 
 ## Contact
 
-Feel free to get in touch if you have any questions of find any errors: dudel@demogr.mpg.de
+If you have any questions (or find any errors) you can post them on Slack. Alternatively, you can send me an email: dudel@demogr.mpg.de
