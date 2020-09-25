@@ -89,6 +89,7 @@
   
   # Source: 
   # https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.412698.de/soep_lebensz_en.zip
+  # https://www.diw.de/en/diw_02.c.222838.en/soep_in_the_college_classroom.html
   # Download and unzip first
   # Data comes in Stata's dta format
   
