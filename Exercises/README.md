@@ -17,7 +17,7 @@ Solutions for the exercises can be found in this folder. For instance, the file 
     * 151/7
     * 13^4 - 12^3 + 5
     * 20/0
-4. Create an R script using R Studio which, first, creates an object 'x' which contains the result of <img src="https://render.githubusercontent.com/render/math?math=\sqrt{2}">. Create a second object 'y' wihch is equal to x^2. Finally, check whether x and y are equal using the == operator. Comment on the result (in the script file) - did you expect it?
+4. Create an R script using R Studio which, first, creates an object 'x' which contains the result of <img src="https://render.githubusercontent.com/render/math?math=\sqrt{2}">. Create a second object 'y' which is equal to x^2. Finally, check whether y is equal to 2 using the == operator. Comment on the result (in the script file) - did you expect it?
 
 ## 2nd session
 

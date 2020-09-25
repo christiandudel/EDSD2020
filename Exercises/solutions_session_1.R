@@ -20,8 +20,8 @@
   
   x <- sqrt(2)
   y <- x^2
-  x==y
-  # R tells us that x and y are NOT equal, although they should be.
+  y==2
+  # R tells us that 2 and y are NOT equal, although they should be.
   # The reason for this is limited accuracy of computers. The square root
   # of 2 is an irrational number, with infintely many, non-repeating 
   # decimal places. This means that you cannot write it down, and computers
