@@ -147,8 +147,8 @@
   plot(x=covid$date,
        y=covid$transit_stations_percent_change_from_baseline,
        xlab="Date",
-       ylab="Percentage change",
+       ylab="Percentage change to baseline",
        panel.first=grid(),
-       main="Mecklenburg-Vorpommern",
+       main="Public transportation use",
        type="l")
     
