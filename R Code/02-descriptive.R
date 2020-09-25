@@ -85,3 +85,70 @@
   prop.table(tab,2)
 
 
+### Another example: German Socio-Economic Panel (GSOEP) ############
+  
+  # Source: 
+  # https://www.diw.de/documents/dokumentenarchiv/17/diw_01.c.412698.de/soep_lebensz_en.zip
+  # Download and unzip first
+  # Data comes in Stata's dta format
+  
+  # Load foreign package
+  library(foreign)
+  
+  # Load data
+  soep <- read.dta(file="D:/soep_lebensz_en.dta",
+                   convert.factors=F)
+  
+  # Longitudinal data
+  head(soep)
+  
+  # Restrict data to last year
+  soep <- subset(x=soep,
+                 subset=year==2004)
+  
+  # Mean satisfaction
+  mean(soep$satisf_org)
+  
+  # Number of kids
+  summary(soep$no_kids)
+  mean(soep$no_kids)
+  
+  # Remove missing values (row-wise deletion)
+  soep <- na.omit(soep)
+  
+  # Conditional statistics
+  by(data=soep$satisf_org,
+     INDICES=soep$no_kids,
+     FUN=mean)
+  
+  # Alternative
+  mean(soep$satisf_org[soep$no_kids==1])
+  
+  
+### Reading another data type: CSV ##################################
+  
+  # Data source and description:
+  # https://www.google.com/covid19/mobility/
+  
+  # Load data 
+  covid <- read.csv("D:/Global_Mobility_Report.csv")
+  
+  # Restrict data to Germany
+  covid <- subset(x=covid,
+                  subset=country_region=="Germany")
+  
+  # Restrict data further to Meck-Pomm (where the MPIDR is)
+  covid <- subset(x=covid,
+                  subset=sub_region_1=="Mecklenburg-Vorpommern")
+
+  # Preview of next session: Plotting (here: base R)
+  covid$date <- as.Date(x=covid$date,
+                        format="%Y-%m-%d")
+  plot(x=covid$date,
+       y=covid$transit_stations_percent_change_from_baseline,
+       xlab="Date",
+       ylab="Percentage change",
+       panel.first=grid(),
+       main="Mecklenburg-Vorpommern",
+       type="l")
+    
