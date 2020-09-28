@@ -106,7 +106,8 @@
   # Start plotting
   fig1 <-  ggplot(data=covid,
                   mapping=aes(x=Date,y=Deaths,color=Country))+
-    geom_line()
+           geom_line()
+  fig1
   
   # Polsih some more
   cols <- c("#2ca25f",
@@ -123,3 +124,6 @@
          caption="Source: OWID/ECDC")+
     scale_colour_manual(values = cols)+
     theme_bw()
+  fig1
+  
+  

@@ -66,7 +66,7 @@
           geom_smooth(method="lm")
   fig1
 
-  # Some further optiosn
+  # Some further options
   fig1 <- ggplot(data=birthwt,mapping=aes(x=age,y=bwt))+
           geom_point()+
           geom_smooth(method="lm",se=F,color="red")
@@ -81,7 +81,7 @@
   fig1
 
   
-### Combination of materials ########################################
+### Combination of things ###########################################
   
   fig1 <- ggplot(data=birthwt,mapping=aes(x=age,y=bwt))
   fig1 <- fig1+geom_point()
