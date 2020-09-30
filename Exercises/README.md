@@ -29,7 +29,7 @@ Load the data set and create a cross-tablulation of the two variables 'race' and
 
 ## 3rd session
 
-Load the 'birthwt' data set from the MASS package and create a bar plot of the absolute frequencies of the ethnicity variable ('race'). To do so, you can use ggplot and the 'geom_bar()' function. To learn more about bar plots with ggplot2 and how to costumize them you can consult chapter 3 in the Wickham/Grolemund book and chapter 4 in the book by Healy.
+Load the 'birthwt' data set from the MASS package and create a bar plot of the absolute frequencies of the ethnicity variable ('race'). To do so, you can use ggplot2 and the 'geom_bar()' function. To learn more about bar plots with ggplot2 and how to costumize them you can consult chapter 3 in the Wickham/Grolemund book and chapter 4 in the book by Healy.
 
 ## 4th session
 
