@@ -1,4 +1,4 @@
-### Solution for the exercise for session 3
+#### Solution for the exercise for session 3
 
 
 # Loading packages 
