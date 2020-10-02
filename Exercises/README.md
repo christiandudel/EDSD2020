@@ -33,6 +33,8 @@ Load the 'birthwt' data set from the MASS package and create a bar plot of the a
 
 ## 4th session
 
+(No exercises)
+
 ## 5th session
 
 ## 6th session
