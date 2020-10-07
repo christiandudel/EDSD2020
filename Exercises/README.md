@@ -37,7 +37,7 @@ Load the 'birthwt' data set from the MASS package and create a bar plot of the a
 
 ## 5th session
 
-Write a function which calculates the mean absolute deviation [1]. It should have an argument which allows to deal with missing values, similar to the mean() function. Apply your function to the following test cases:
+Write a function which calculates the average absolute deviation from the mean [1]. It should have an argument which allows to deal with missing values, similar to the mean() function. Apply your function to the following test cases:
 
 * 1:10
 * rnorm(1000)
